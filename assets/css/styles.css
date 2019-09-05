@@ -1,6 +1,3 @@
-body{
-    background: url("assets/images/interlaced.png")
-}
 
 h1{
     text-align: center;
@@ -71,7 +68,7 @@ img{
     color: black;
     font-size: 20px;
 }
-#points{
+#selectedNumber{
     color: black;
     font-size: 15px;
 
