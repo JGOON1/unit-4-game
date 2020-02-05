@@ -8,19 +8,19 @@ h1{
 }
 .heading{
     height: 50px;
-    background: red;
+    background: #5b8c85;
 
 }
 
 .explain{
-    background: green;
+    background: #5b8c85;
     height: 250px;
 }
 p{
     text-align: left;
     font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
-    color: aqua;
+    color: #434e52;
 
 }
 
@@ -28,34 +28,33 @@ p{
     border: solid 1px;
     background-color: bisque;
     height: 100px;
+    align-items: center;
 
 
 }
 .tracker{
     border: solid 1px;
-    background-color: blanchedalmond;
+    background-color: bisque;
     height: 100px;
 
 }
-.minerals{
-    border: solid 1px;
-    background: cornflowerblue;
-}
+
+
 img{
-    height: 200px;
+    height: 100%;
     width: 200px;
 }
 
 .scoring{
     border: solid 1px;
-    height: 300px;
+    height: 100px;
     width: 50%;
+    background-color: bisque;
 
 
 }
 
 #score{
-    font-size: 10rem;
     color: black;
 
 
